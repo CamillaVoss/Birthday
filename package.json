@@ -1,0 +1,22 @@
+{
+  "name": "birthday",
+  "version": "1.0.0",
+  "description": "Birthday invitation",
+  "main": "index.html",
+  "scripts": {
+    "watch": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamillaVoss/Birthday.git"
+  },
+  "author": "Camilla Voss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamillaVoss/Birthday/issues"
+  },
+  "homepage": "https://github.com/CamillaVoss/Birthday#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
