@@ -18,5 +18,9 @@
   "homepage": "https://github.com/CamillaVoss/Birthday#readme",
   "devDependencies": {
     "tailwindcss": "^3.4.1"
+  },
+  "overrides": {
+    "glob": "^10.5.0",
+    "cross-spawn": "^7.0.4"
   }
 }
